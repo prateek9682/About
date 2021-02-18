@@ -1,0 +1,14 @@
+*{
+    margin:0;
+    padding:0;
+    background-color:powderblue;
+
+}
+header{
+    text-align: center;
+}
+
+article{
+    background-color: rgba(46, 151, 91,0.4);
+    border-radius: 20px 20px 20px 20px;
+}
