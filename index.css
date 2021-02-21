@@ -17,6 +17,9 @@ nav a{
 	color: white;
 }
 
+nav a:hover{
+	color:darkslategrey;
+}
 header{
 	background-color: darkgrey;
 	position: absolute;
